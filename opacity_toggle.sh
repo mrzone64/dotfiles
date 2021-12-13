@@ -1,0 +1,1 @@
+../.config/skhd/scripts/opacity_toggle.sh
